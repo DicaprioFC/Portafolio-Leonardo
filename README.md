@@ -61,7 +61,7 @@ Además, participé en la **definición de historias de usuario** y realicé los
   - ✅ 7 commits principales  
   - ✅ 2 historias de usuario completadas
  
-  ## 🤝 Desarrollo de Habilidades Blandas  
+## 🤝 Desarrollo de Habilidades Blandas  
 
 - 🗣️ **Comunicación:** Mejoré mi claridad al exponer avances en las dailies, pidiendo feedback cuando fue necesario.  
 - 👥 **Liderazgo:** Coordiné con el equipo para integrar el carrito con el sistema de cupones, guiando la solución de bloqueos.  

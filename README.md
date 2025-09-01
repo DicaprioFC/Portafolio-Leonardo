@@ -41,14 +41,14 @@ Además, participé en la **definición de historias de usuario** y realicé los
 ## 📈 Aplicación de la Metodología Ágil  
 
 - 👨‍💻 **Roles ejercidos:**  
-  Desarrollador backend y apoyo en testing.  
+  Desarrollador Frontend y backend.  
 
 - 📅 **Participación en ceremonias Scrum:**  
   Daily standups, sprint planning y retrospectivas.  
 
 - 📊 **Métricas personales:**  
-  - ✅ 12 commits principales  
-  - ✅ 4 historias de usuario completadas  
-  - ✅ 2 bugs críticos solucionados  
+  - ✅ 7 commits principales  
+  - ✅ 2 historias de usuario completadas  
+ 
 
 

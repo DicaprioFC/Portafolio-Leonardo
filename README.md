@@ -25,8 +25,15 @@ Además, participé en la **definición de historias de usuario** y realicé los
  
 
 
-Desafios tecnicos Resueltos
-→ Se agregó la lógica para agregar productos al carrito, actualizar cantidades y calcular el total dinámicamente.  
-→ Se implementó el sistema de cupones que permite aplicar descuentos al carrito con validaciones en backend. 
-→ Se resolvió el problema del cálculo del subtotal y descuentos al modificar/eliminar productos del carrito.  
+🛠️ Desafíos Técnicos Resueltos  
+
+- 🔄 **Carrito dinámico:**  
+  Se agregó la lógica para **agregar productos**, actualizar cantidades y calcular el **total automáticamente**.  
+
+- 🎟️ **Sistema de cupones:**  
+  Se implementó la funcionalidad de cupones con **validaciones en backend**, permitiendo aplicar descuentos de forma segura.  
+
+- 💰 **Cálculo de totales:**  
+  Se resolvió el problema del **subtotal y descuentos** al modificar o eliminar productos del carrito.  
+
 

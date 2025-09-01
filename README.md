@@ -1,4 +1,4 @@
-             📑 Resumen Ejecutivo  
+     📑 Resumen Ejecutivo  
 
 El proyecto consistió en desarrollar una **plataforma de marketplace** con autenticación de usuarios, carrito de compras y aplicación de cupones de descuento.  
 
@@ -7,7 +7,7 @@ Mi contribución personal se centró en la **implementación del carrito**, inte
 Además, participé en la **definición de historias de usuario** y realicé los respectivos **Mockups para las vistas**, asegurando coherencia entre la experiencia de usuario y los objetivos del proyecto.  
 
 
-           🔹 Contribuciones Técnicas  
+     🔹 Contribuciones Técnicas  
 
 - ✅ **Frontend:** Laravel Livewire / TailwindCSS  
 - ✅ **Backend:** Laravel 12, PHP 8.4.4  

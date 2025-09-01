@@ -12,4 +12,5 @@ El proyecto consistió en desarrollar una plataforma de marketplace con autentic
 
 CONTERIBUCIONES CLAVE DE CODIGO
 
+https://github.com/Jhoel777ar/marketplace-lpz/commit/aa9b206877fecd8b7e80b2fe463a15b3e6e2dc4b
 

@@ -10,9 +10,11 @@ El proyecto consistió en desarrollar una plataforma de marketplace con autentic
 .Database: MySQL
 .Herramientas: GitHub
 
-CONTERIBUCIONES CLAVE DE CODIGO
+                                      CONTERIBUCIONES CLAVE DE CODIGO
+                                     -----------------------------------
 
 https://github.com/Jhoel777ar/marketplace-lpz/commit/aa9b206877fecd8b7e80b2fe463a15b3e6e2dc4b
 
 https://github.com/Jhoel777ar/marketplace-lpz/commit/beb7c117c88af0b9ca55b94e06013f24510b8622
 
+https://github.com/Jhoel777ar/marketplace-lpz/commit/eecfdafd41afb0b6df6e6f3f6b06e12817930111

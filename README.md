@@ -96,7 +96,51 @@ Además, participé en la **definición de historias de usuario** y realicé los
   Seguir profundizando en **arquitectura de software**, **clean code** y **buenas prácticas de testing automatizado** para mejorar la calidad de mis entregas.  
 
 - 🎯 **Impacto en mi visión profesional:**  
-  Este proyecto reafirmó mi interés en especializarme como **desarrollador backend**, con la meta de evolucionar hacia un rol de **líder técnico** en el futuro.  
+  Este proyecto reafirmó mi interés en especializarme como **desarrollador backend**, con la meta de evolucionar hacia un rol de **líder técnico** en el futuro.
+
+
+
+  # 📄 Declaración de Compromiso de Aprendizaje (Día 20)
+
+---
+
+## 🛠️ Habilidades Técnicas (Próximos 6 meses)
+1. Mejorar el manejo de **Laravel y Livewire**, optimizando controladores y componentes para lograr código más limpio y mantenible.  
+2. Implementar **testing automatizado (PHPUnit y Laravel Dusk)** para garantizar calidad y evitar regresiones en el carrito y otras funcionalidades.  
+3. Profundizar en **optimización de bases de datos (Eloquent, queries y relaciones)** para mejorar el rendimiento de la aplicación.  
+
+---
+
+## 🔄 Prácticas Ágiles
+1. Aplicar retrospectivas con mayor foco en la **detección temprana de bloqueos técnicos**.  
+2. Mejorar la definición de historias de usuario incluyendo criterios de aceptación más claros.  
+3. Promover la **adherencia al DoD (Definition of Done)** asegurando cobertura de pruebas y documentación mínima en cada commit.  
+
+---
+
+## 🤝 Colaboración y Habilidades Blandas
+1. Potenciar mi **comunicación asertiva** en reuniones técnicas, explicando soluciones con mayor claridad.  
+2. Desarrollar **habilidades de liderazgo** apoyando a compañeros en dudas técnicas de Laravel y Livewire.  
+3. Mejorar mi **gestión de conflictos** mediante escucha activa y búsqueda de consensos en decisiones de equipo.  
+
+---
+
+## 📊 Métricas de Éxito
+- Al menos **10 pruebas unitarias/funcionales** creadas y ejecutadas con éxito.  
+- Cumplir con un mínimo de **5 historias de usuario completas** en los próximos sprints.  
+- Participación activa documentada en al menos **90% de ceremonias Scrum**.  
+- Feedback positivo de al menos **2 compañeros** en evaluaciones 360 sobre comunicación y apoyo técnico.  
+
+---
+
+## 👥 Socio de Responsabilidad
+- **Joel Andrés Chura Quispe (Scrum Master)**: realizará seguimiento y feedback sobre mis avances.  
+
+---
+
+## 📅 Fecha de Revisión
+- **30 de noviembre de 2025** (revisión de avance a 3 meses).  
+
 
 
 # 📝 Evaluación de Pares 360°  

@@ -1,4 +1,4 @@
-                                             ## 📑 Resumen Ejecutivo  
+               📑 Resumen Ejecutivo  
 
 El proyecto consistió en desarrollar una **plataforma de marketplace** con autenticación de usuarios, carrito de compras y aplicación de cupones de descuento.  
 

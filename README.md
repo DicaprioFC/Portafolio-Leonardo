@@ -12,4 +12,4 @@ El proyecto consistió en desarrollar una plataforma de marketplace con autentic
 
 CONTERIBUCIONES CLAVE DE CODIGO
 
-eecfdafd41afb0b6df6e6f3f6b06e12817930111
+

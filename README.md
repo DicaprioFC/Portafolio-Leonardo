@@ -37,3 +37,18 @@ Además, participé en la **definición de historias de usuario** y realicé los
   Se resolvió el problema del **subtotal y descuentos** al modificar o eliminar productos del carrito.  
 
 
+
+## 📈 Aplicación de la Metodología Ágil  
+
+- 👨‍💻 **Roles ejercidos:**  
+  Desarrollador backend y apoyo en testing.  
+
+- 📅 **Participación en ceremonias Scrum:**  
+  Daily standups, sprint planning y retrospectivas.  
+
+- 📊 **Métricas personales:**  
+  - ✅ 12 commits principales  
+  - ✅ 4 historias de usuario completadas  
+  - ✅ 2 bugs críticos solucionados  
+
+

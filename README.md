@@ -99,3 +99,69 @@ Además, participé en la **definición de historias de usuario** y realicé los
   Este proyecto reafirmó mi interés en especializarme como **desarrollador backend**, con la meta de evolucionar hacia un rol de **líder técnico** en el futuro.  
 
 
+# 📝 Evaluación de Pares 360°  
+
+---
+
+## 👤 Joel Andrés Chura Quispe  
+
+- ⭐ **Contribución Técnica:** 5  
+  Excelente calidad de código, resolvió problemas complejos y mostró gran dominio técnico.  
+- ⭐ **Metodologías Ágiles:** 5  
+  Lideró las ceremonias Scrum con claridad y compromiso.  
+- ⭐ **Habilidades Blandas:** 5  
+  Destacó como líder natural, comunicador efectivo y mediador en situaciones de conflicto.  
+- 💬 **Comentarios Específicos:**  
+  Lo más valorado: Su capacidad de liderazgo y claridad en el rol de **Scrum Master**.  
+  Área de crecimiento: Delegar más responsabilidades para fomentar autonomía en el equipo.  
+  Recomendación de desarrollo: Continuar fortaleciendo habilidades de gestión y liderazgo técnico.  
+
+---
+
+## 👤 Shamir Erick Condori Troche  
+
+- ⭐ **Contribución Técnica:** 4  
+  Siempre dispuesto a colaborar tanto en backend como en frontend.  
+- ⭐ **Metodologías Ágiles:** 4  
+  Participación activa en dailies y planning, aportando ideas y soluciones.  
+- ⭐ **Habilidades Blandas:** 5  
+  Destaca por su disposición de ayuda, empatía y excelente comunicación.  
+- 💬 **Comentarios Específicos:**  
+  Lo más valorado: Su apoyo constante en diferentes áreas técnicas.  
+  Área de crecimiento: Profundizar en especialización técnica en un stack definido.  
+  Recomendación de desarrollo: Seguir fortaleciendo su versatilidad sin perder el enfoque en la calidad del código.  
+
+---
+
+## 👤 Danner Alejandro Calle Mamani  
+
+- ⭐ **Contribución Técnica:** 3  
+  Su principal aporte estuvo en pruebas y apoyo en testing.  
+- ⭐ **Metodologías Ágiles:** 4  
+  Participó en ceremonias Scrum brindando feedback valioso desde la perspectiva de testing.  
+- ⭐ **Habilidades Blandas:** 4  
+  Buen trabajo en equipo, apoyo constante y comunicación efectiva.  
+- 💬 **Comentarios Específicos:**  
+  Lo más valorado: Su enfoque en pruebas que ayudó a detectar errores a tiempo.  
+  Área de crecimiento: Mayor involucramiento en la parte de desarrollo técnico.  
+  Recomendación de desarrollo: Aprender más sobre automatización de pruebas para aportar mayor valor al equipo.  
+
+---
+
+## 👤 Luis Fernando Villca Mamani  
+
+- ⭐ **Contribución Técnica:** 5  
+  Muy bueno programando, aportó soluciones técnicas sólidas y eficientes.  
+- ⭐ **Metodologías Ágiles:** 4  
+  Participación activa en las ceremonias, con aportes relevantes al desarrollo.  
+- ⭐ **Habilidades Blandas:** 4  
+  Buena comunicación y disposición para colaborar en el equipo.  
+- 💬 **Comentarios Específicos:**  
+  Lo más valorado: Su capacidad de programar con calidad y eficiencia.  
+  Área de crecimiento: Compartir más conocimiento con los compañeros.  
+  Recomendación de desarrollo: Seguir reforzando liderazgo técnico y mentoría para el equipo.  
+
+---
+
+
+

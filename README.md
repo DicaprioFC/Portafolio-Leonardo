@@ -9,3 +9,7 @@ El proyecto consistió en desarrollar una plataforma de marketplace con autentic
 .Backend: Laravel 12, PHP 8.4.4
 .Database: MySQL
 .Herramientas: GitHub
+
+CONTERIBUCIONES CLAVE DE CODIGO
+
+eecfdafd41afb0b6df6e6f3f6b06e12817930111

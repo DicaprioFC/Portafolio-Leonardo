@@ -32,13 +32,20 @@ Además, participé en la **definición de historias de usuario** y realicé los
 ## 🛠️ Desafíos Técnicos Resueltos  
 
 - 🔄 **Carrito dinámico:**  
-  Se agregó la lógica para **agregar productos**, actualizar cantidades y calcular el **total automáticamente**.  
+  - **Problema:** La lógica inicial no actualizaba correctamente las cantidades y el total del carrito al modificar productos.  
+  - **Solución:** Se implementaron métodos específicos en el controlador para recalcular dinámicamente el total y se ajustaron las relaciones en los modelos.  
+  - **Aprendizaje:** Reforcé mis conocimientos en controladores de Laravel y en la importancia de validar la lógica de negocio en cada actualización del carrito.  
 
 - 🎟️ **Sistema de cupones:**  
-  Se implementó la funcionalidad de cupones con **validaciones en backend**, permitiendo aplicar descuentos de forma segura.  
+  - **Problema:** El sistema no aplicaba los descuentos de manera consistente y se generaban errores de validación.  
+  - **Solución:** Se añadió un módulo de validación en backend que comprueba la validez del cupón antes de aplicarlo, garantizando seguridad y consistencia.  
+  - **Aprendizaje:** Aprendí a implementar reglas de validación más robustas y la importancia de manejar los flujos de error de forma clara para el usuario.  
 
 - 💰 **Cálculo de totales:**  
-  Se resolvió el problema del **subtotal y descuentos** al modificar o eliminar productos del carrito.  
+  - **Problema:** Al eliminar o modificar productos, el subtotal y el descuento no se recalculaban correctamente.  
+  - **Solución:** Se creó una función centralizada que actualiza automáticamente subtotal, descuentos y total final en cada operación del carrito.  
+  - **Aprendizaje:** Entendí la importancia de centralizar la lógica crítica para evitar redundancias y mejorar el mantenimiento del código.  
+
 
 ---
 

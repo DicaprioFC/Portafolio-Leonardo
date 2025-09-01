@@ -5,10 +5,10 @@ El proyecto consistió en desarrollar una plataforma de marketplace con autentic
 
                                            CONTRIBUCIONES TECNICAS
                                          -----------------------------
-*Frontend: Laravel Livewire / TailwindCSS
-*Backend: Laravel 12, PHP 8.4.4
-*Database: MySQL
-*Herramientas: GitHub
+. ✅Frontend: Laravel Livewire / TailwindCSS
+. ✅Backend: Laravel 12, PHP 8.4.4
+. ✅Database: MySQL
+. ✅Herramientas: GitHub
 
                                       CONTERIBUCIONES CLAVE DE CODIGO
                                      -----------------------------------

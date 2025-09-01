@@ -18,11 +18,15 @@ Además, participé en la **definición de historias de usuario** y realicé los
      🔑 Contribuciones Clave de Código  
 
 - [Commit: Implementación de carrito de compras](https://github.com/Jhoel777ar/marketplace-lpz/commit/aa9b206877fecd8b7e80b2fe463a15b3e6e2dc4b)  
-  → Se agregó la lógica para agregar productos al carrito, actualizar cantidades y calcular el total dinámicamente.  
 
 - [Commit: Aplicación de cupones de descuento](https://github.com/Jhoel777ar/marketplace-lpz/commit/beb7c117c88af0b9ca55b94e06013f24510b8622)  
-  → Se implementó el sistema de cupones que permite aplicar descuentos al carrito con validaciones en backend.  
 
 - [Commit: Actualización automática del total del carrito](https://github.com/Jhoel777ar/marketplace-lpz/commit/eecfdafd41afb0b6df6e6f3f6b06e12817930111)  
-  → Se resolvió el problema del cálculo del subtotal y descuentos al modificar/eliminar productos del carrito.  
+ 
+
+
+Desafios tecnicos Resueltos
+→ Se agregó la lógica para agregar productos al carrito, actualizar cantidades y calcular el total dinámicamente.  
+→ Se implementó el sistema de cupones que permite aplicar descuentos al carrito con validaciones en backend. 
+→ Se resolvió el problema del cálculo del subtotal y descuentos al modificar/eliminar productos del carrito.  
 

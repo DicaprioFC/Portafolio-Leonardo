@@ -72,13 +72,14 @@ Además, participé en la **definición de historias de usuario** y realicé los
 
 ## 📂 Artefactos y Evidencia  
 
-- 🖼️ **Screenshots de funciones implementadas:**  
-  - [Carrito con productos](screenshot-carrito.png)  
-  - [Aplicación de cupones de descuento](screenshot-cupon.png)  
+🖼️ **Screenshots de funciones implementadas:**  
+- Carrito con productos: Vista donde el usuario puede visualizar los artículos añadidos, modificar cantidades y eliminar productos.  
+- Aplicación de cupones de descuento: Interfaz que permite ingresar un cupón válido y visualizar el descuento aplicado en el total del carrito.  
 
-- 📄 **Documentación creada:**  
-  - Manual de uso del carrito (README interno del proyecto)  
-  - Wiki en GitHub con endpoints de la API  
+📄 **Documentación creada:**  
+- Commits documentados en GitHub que muestran la implementación del carrito y la integración del sistema de cupones.  
+- Notas técnicas sobre la lógica de cálculo de totales y validación de descuentos.  
+ 
 
 - 🏅 **Reconocimientos recibidos:**  
   - Mención del Scrum Master por resolver bug crítico en producción.  
